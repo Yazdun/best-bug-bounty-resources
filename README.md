@@ -1,0 +1,1 @@
+# best-bug-bounty-resources
